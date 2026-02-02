@@ -1,4 +1,4 @@
-package com.example.democloudarchitecture.dto;
+package com.example.democloudarchitecture.member.dto;
 
 import lombok.Getter;
 

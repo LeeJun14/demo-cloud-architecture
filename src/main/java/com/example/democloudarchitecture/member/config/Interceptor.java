@@ -1,4 +1,4 @@
-package com.example.democloudarchitecture.config;
+package com.example.democloudarchitecture.member.config;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

@@ -1,4 +1,4 @@
-package com.example.democloudarchitecture.exception;
+package com.example.democloudarchitecture.member.exception;
 
 import lombok.Getter;
 
